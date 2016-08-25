@@ -13,7 +13,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 50%;
+		font-size: 12px;
 		font: inherit;
 		vertical-align: baseline;
 	}
@@ -161,7 +161,7 @@
 		transition: opacity 2s ease-in-out;
 		height: 100%;
 		left: 0;
-		opacity: 0.2;
+		opacity: 0.67;
 		position: fixed;
 		top: 0;
 		width: 100%;
